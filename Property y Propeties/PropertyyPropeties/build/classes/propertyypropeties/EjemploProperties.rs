@@ -1,0 +1,2 @@
+propertyypropeties.PropertyyPropeties
+EjemploProperties
